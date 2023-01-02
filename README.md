@@ -1,4 +1,4 @@
- <img src="(/2359-witch-wumpus.gif" width="40" height="40" alt="hello" /> My name is Moniruzzaman Sujon
+ <img src="2359-witch-wumpus.gif" width="40" height="40" alt="hello" /> My name is Moniruzzaman Sujon
 ==========================================================================================================================================
 
  MERN Stack Developer || React Developer || Front-End Developer
