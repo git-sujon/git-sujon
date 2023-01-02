@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moniruzzaman Sujon
+Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/c-c2pzopRssAAAAM/wumpus-discord.gif))My name is Moniruzzaman Sujon
 ==========================================================================================================================================
 
-React Developer || Front-End Developer || MERN Stack Developer
+ MERN Stack Developer || React Developer || Front-End Developer
 --------------------------------------------------------------
 
 A passionate MERN Stack Developer with excellent problem-solving skills and the ability to convert them into elegant digital experiences. I have experience in developing frontend applications using JavaScript and specifically have strong experience with React JS. I have developed a strong foundation in HTML, CSS, and JavaScript. I have also gained experience with modern frameworks such as React JS, Node JS, Express JS, MongoDB, and other web Dev technologies like Firebase, REST APIs, react query, payment system, Axios, Git version control, and tools like Figma, postman, etc. Besides have gained hands-on experience building responsive websites and web applications. I have also had the opportunity to work on a variety of projects, ranging from small websites to large web applications. My strong problem-solving skills and attention to detail have allowed me to deliver high-quality work on tight deadlines consistently.
