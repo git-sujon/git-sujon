@@ -1,4 +1,4 @@
-Hi ![](https://media.tenor.com/c-c2pzopRssAAAAC/wumpus-discord.gif)My name is Moniruzzaman Sujon
+ <img src="(https://media.tenor.com/c-c2pzopRssAAAAC/wumpus-discord.gif" width="40" height="40" alt="hello" /> My name is Moniruzzaman Sujon
 ==========================================================================================================================================
 
  MERN Stack Developer || React Developer || Front-End Developer
