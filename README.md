@@ -31,6 +31,7 @@ Passionate about transforming complex problems into elegant digital solutions, I
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="git-sujon" /> </p>
 
+### Badges
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-sujon" alt="git-sujon" /></a> </p>
 
 ### Skills
@@ -41,13 +42,10 @@ Passionate about transforming complex problems into elegant digital solutions, I
 
 <p align="left"> <a href="https://discord.com/users/1005483911675117668" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/git-sujon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/moniruzzaman-sujon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<b>My GitHub Stats</b>
 
-<p align="left">
-</p>
+<a href="http://www.github.com/git-sujon"><img src="https://github-readme-stats.vercel.app/api?username=git-sujon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="git-sujon's GitHub stats" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sujon&show_icons=true&locale=en&layout=compact" alt="git-sujon" /></p>
+<a href="http://www.github.com/git-sujon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=git-sujon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-sujon&show_icons=true&locale=en" alt="git-sujon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sujon&" alt="git-sujon" /></p>
+<a href="https://github.com/git-sujon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sujon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
