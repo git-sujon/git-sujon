@@ -1,8 +1,8 @@
 # <img src="2359-witch-wumpus.gif" width="60" height="60" alt="hello" /> My name is Moniruzzaman Sujon
 
-## Full Stack Developer
+## Software Engineer at JB Connenct Ltd
 
-Passionate about transforming complex problems into elegant digital solutions, I am a Full Stack Developer with a strong foundation in both frontend and backend technologies. My expertise lies in crafting seamless user experiences using cutting-edge technologies.
+Passionate about transforming complex problems into elegant digital solutions, I am a Full Software Engineer with a strong foundation in both frontend and backend technologies. My expertise lies in crafting seamless user experiences using cutting-edge technologies.
 
 ```
 {
